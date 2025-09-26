@@ -10,7 +10,7 @@ I'm a passionate **Full-Stack Developer** based in **Ankara, Turkey** 🇹🇷, 
 
 ```typescript
 const developer = {
-    name: "Your Name",
+    name: "Latif",
     location: "Ankara, Turkey 🇹🇷",
     role: "Full-Stack Developer",
     company: "ArthaStudio.io",
